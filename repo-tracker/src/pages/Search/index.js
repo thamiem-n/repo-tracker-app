@@ -1,8 +1,12 @@
 import React from 'react'
+import { SearchForm } from '../../components'
 
 const Search = () => {
   return (
-    <div>search</div>
+    <div>
+
+      <SearchForm />
+    </div>
   )
 }
 
